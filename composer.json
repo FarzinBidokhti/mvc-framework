@@ -1,0 +1,23 @@
+{
+    "name": "farzinbidokhti/framework",
+    "description": "Sample mvc framework.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Farzinbidokhti\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farzin Bidokhti",
+            "email": "farzin.bidokhti@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "app\\" : "./"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
