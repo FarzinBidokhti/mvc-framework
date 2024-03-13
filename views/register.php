@@ -5,13 +5,13 @@
     <div class="col">
     <div class="mb-3">
     <label class="form-label">First name</label>
-    <input type="text" name="firstname" class="form-control">
+    <input type="text" name="first_name" class="form-control">
   </div>
     </div>
     <div class="col">
     <div class="mb-3">
     <label class="form-label">Last name</label>
-    <input type="text" name="lastname" class="form-control">
+    <input type="text" name="last_name" class="form-control">
   </div>
     </div>
   </div>
